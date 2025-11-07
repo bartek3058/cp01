@@ -2,7 +2,7 @@ CC = c++
 CFLAGS = -Wall -Wextra -Werror -std=c++98
 NAME =  Sed_is_for_losers
 SRC =	main.cpp\
-		replace.cpp
+		Replace.cpp
 
 OBJ = ${SRC:.cpp=.o}
 
